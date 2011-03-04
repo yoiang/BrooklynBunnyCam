@@ -27,7 +27,7 @@
 		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		1D3623240D0F684500981E51 /* Brooklyn_Bunny_CamAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Brooklyn_Bunny_CamAppDelegate.h; sourceTree = "<group>"; };
 		1D3623250D0F684500981E51 /* Brooklyn_Bunny_CamAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Brooklyn_Bunny_CamAppDelegate.m; sourceTree = "<group>"; };
-		1D6058910D05DD3D006BFB54 /* Brooklyn Bunny Cam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Brooklyn Bunny Cam.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1D6058910D05DD3D006BFB54 /* Bklyn Bunny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Bklyn Bunny.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		2899E5210DE3E06400AC0155 /* Brooklyn_Bunny_CamViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Brooklyn_Bunny_CamViewController.xib; sourceTree = "<group>"; };
@@ -78,7 +78,7 @@
 		19C28FACFE9D520D11CA2CBB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1D6058910D05DD3D006BFB54 /* Brooklyn Bunny Cam.app */,
+				1D6058910D05DD3D006BFB54 /* Bklyn Bunny.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -148,7 +148,7 @@
 			);
 			name = "BKLYN BUNNY";
 			productName = "Brooklyn Bunny Cam";
-			productReference = 1D6058910D05DD3D006BFB54 /* Brooklyn Bunny Cam.app */;
+			productReference = 1D6058910D05DD3D006BFB54 /* Bklyn Bunny.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -220,7 +220,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Brooklyn_Bunny_Cam_Prefix.pch;
 				INFOPLIST_FILE = "Brooklyn_Bunny_Cam-Info.plist";
-				PRODUCT_NAME = "Brooklyn Bunny Cam";
+				PRODUCT_NAME = "Bklyn Bunny";
 			};
 			name = Debug;
 		};
@@ -232,7 +232,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = Brooklyn_Bunny_Cam_Prefix.pch;
 				INFOPLIST_FILE = "Brooklyn_Bunny_Cam-Info.plist";
-				PRODUCT_NAME = "Brooklyn Bunny Cam";
+				PRODUCT_NAME = "Bklyn Bunny";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
