@@ -1,0 +1,1 @@
+Old project for the Brooklyn Bunny Cam (http://www.bklynbunny.com/) people, never made it out of design phase (we started talking AFTER I moved out of Brooklyn)
